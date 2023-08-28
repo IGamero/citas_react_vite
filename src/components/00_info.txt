@@ -1,0 +1,3 @@
+Los componentes deben nombrarse con primera mayuscula
+tendran extension jsx ya que estams utilizando jsx
+A pesar de poder ponerse todos los compònetes en un mismo archivo, es recomendable tener un archivo por componente para una disposicion mas ordenada
